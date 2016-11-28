@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bluetoothConfiguration">Bluetooth Configuration</string>
+    <string name="title_activity_paired_devices">paired_devices</string>
+
+    <string name="newGame">New Game</string>
+    <string name="authors">Designed by:\nJosias Orlando and Matheus Dal Mago</string>
+    <string name="pairedDevices">Select \nOpponent</string>
+    <string name="waitConnection">Wait \nConnection</string>
+    <string name="discoverDevices">Bluetooth \nConfiguration</string>
+
+    <string name="bluetoothFail">Bluetooth did not work properly!</string>
+    <string name="bluetoothOk">Bluetooth is working properly!</string>
+    <string name="bluetoothSolicitation">Solicitating Bluetooth Activation...</string>
+    <string name="bluetoothActive">Bluetooth already activated</string>
+
+    <string name="bluetoothActivated">Bluetooth activated</string>
+    <string name="bluetoothNotActivated">Bluetooth not activated</string>
+    <string name="selected">You selected </string>
+    <string name="bluetoothNoDevice">No Device Selected</string>
+    <string name="bluetoothConnectionError">An error ocurred during connection</string>
+    <string name="bluetoothConnected">Connected</string>
+    <string name="bluetoothNearby">\nNearby devices\n</string>
+    <string name="bluetoothPairedDevices">\nPaired Devices\n</string>
+
+</resources>
