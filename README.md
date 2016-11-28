@@ -1,2 +1,2 @@
-# SuperBluetooth
-Como usar o dispositivo Bluetooth do seu Android!
+Android Tic-Tac-Toe game using bluetooth communication
+
